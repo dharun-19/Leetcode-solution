@@ -12,6 +12,24 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp) |
 
+## Linked List
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+
+## Math
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+
+## Recursion
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+
 ## String
 
 | # | Problem | Platform | Language |
