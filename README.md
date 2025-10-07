@@ -1,5 +1,17 @@
 # Leetcode-solution
 
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp) |
+
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp) |
+
 ## String
 
 | # | Problem | Platform | Language |
