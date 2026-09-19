@@ -2,8 +2,8 @@
 
 ## Metadata
 - **Difficulty:** <span style="color: #22c55e; font-weight: bold;">Easy</span>
-- **Languages:** `C++`
-- **Submission Date:** 7 October 2025
+- **Languages:** `Java`
+- **Submission Date:** 19 September 2026
 - **Tags:** `Array`, `Hash Table`
 
 ## Description
@@ -51,30 +51,27 @@ Output: [0,1]
 
 ## Solution
 
-### C++
-```cpp
+### Java
+```java
 class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-    vector<int> result(2);
-        for(int i=0;i<nums.size();i++)
-        {
-        
-            for(int j=i+1;j<nums.size();j++)
-            {
-                if (nums[i]+nums[j]==target)
-                {
-                    result[0]=i;
-                    result[1]=j;
-                    return result;
-                    exit(0);
+    public int[] twoSum(int[] nums, int target) {
+
+        int a[] = new int[2];
+
+        for (int i = 0; i < nums.length - 1; i++) {
+            for (int j = i + 1; j < nums.length; j++) {
+
+                if (nums[i] + nums[j] == target) {
+                    a[0] = i;
+                    a[1] = j;
+                    return a;
                 }
             }
         }
-        return result;
-    } 
 
-};
+        return a;
+    }
+}
 ```
 
 ---

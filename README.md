@@ -4,13 +4,13 @@
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp), [Java](./two-sum/two-sum.java) |
 
 ## Hash Table
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [C++](./two-sum/two-sum.cpp), [Java](./two-sum/two-sum.java) |
 
 ## Linked List
 
