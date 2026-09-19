@@ -1,25 +1,48 @@
 {
-  "shas": {
-    "defanging-an-ip-address": {
-      "defanging-an-ip-address.java": "6d31ae046001962a5bcf75628ac96dd963cdc758",
-      "README.md": "70c49b3ab235ed8c6a3e70f36ce1a546bc5429ae"
+  "totalSolved": 3,
+  "easy": 2,
+  "medium": 1,
+  "hard": 0,
+  "unknown": 0,
+  "problems": [
+    {
+      "number": 1,
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "C++, Java",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/two-sum"
     },
-    "README.md": {
-      "": "a8c96097aa61ffa4aa848bc610d9d0d44a0c419e"
+    {
+      "number": 2,
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "primaryDomain": "Math",
+      "folder": "Math/add-two-numbers"
     },
-    "stats.json": {
-      "": "b5b48d9f749cd98d094af9ec47a21ac979036c61"
-    },
-    "two-sum": {
-      "two-sum.cpp": "d07342823511b00456e8aae872b88af85ce0c175",
-      "README.md": "cf987578bc6316482092e66817946dddd6a41a87",
-      "two-sum.java": "c42f672894cf968b893908e70c8c3ed3fd6e40b9"
-    },
-    "add-two-numbers": {
-      "add-two-numbers.py": "22dc3e96730bad582221481fb5cf2661bb45af11",
-      "README.md": "c504d4a30fdfa27e4e7aedf36f1a9a074a4a8257"
+    {
+      "number": 1108,
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "language": "Java",
+      "tags": [
+        "String"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/defanging-an-ip-address"
     }
-  },
-  "solved": 3,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
