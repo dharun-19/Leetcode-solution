@@ -44,5 +44,19 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ]
+  ],
+  "shas": {
+    "left-and-right-sum-differences": {
+      "left-and-right-sum-differences.java": "9ee8a47999fd59f77a31b1c262a50d08c3e0b7eb",
+      "README.md": "58a262b4e9ab34662e656d050abd69679c72c912"
+    },
+    "README.md": {
+      "": "97c1be06db0d51d22c149f75e06c4208588f73c6"
+    },
+    "stats.json": {
+      "": "f8f5c714d8b61546912dd76f0e438bacb895862c"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
